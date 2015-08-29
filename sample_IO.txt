@@ -1,0 +1,66 @@
+E:\DEGREES_OF_SEPARATION\src\degreespkg\main>go build
+
+E:\DEGREES_OF_SEPARATION\src\degreespkg\main>.\main.exe degrees dhanush kajal-ag
+arwal
+
+        #####################################################
+
+                They have worked together in a film
+
+                Degrees of Separation:  1
+
+                 1 .Movie:  Maari
+                 Actor :  Dhanush
+                 Actress :  Kajal Agarwal
+
+
+        #####################################################
+
+E:\DEGREES_OF_SEPARATION\src\degreespkg\main>.\main.exe degrees amitabh-bachchan
+ robert-de-niro
+
+        ##########################################################
+
+                They have not worked together in a film yet
+
+        Please wait while searching possible links between them...
+
+
+                Degrees of Separation:  2
+
+                 1 .Movie:  Mahabharat
+                 Actor :  Amitabh Bachchan
+                 Supporting Actor :  Anupam Kher
+
+                 2 .Movie:  Silver Linings Playbook
+                 Actor :  Robert De Niro
+                 Supporting Actor :  Anupam Kher
+
+
+                Want to find more links between them?
+                If yes press y or press n :
+y
+
+        Please wait while searching possible links between them...
+
+
+                Degrees of Separation:  2
+
+                 1 .Movie:  Zamaanat
+                 Actor :  Amitabh Bachchan
+                 Supporting Actor :  Anupam Kher
+
+                 2 .Movie:  Silver Linings Playbook
+                 Actor :  Robert De Niro
+                 Supporting Actor :  Anupam Kher
+
+
+                Want to find more links between them?
+                If yes press y or press n :
+n
+
+                        Have found 2 links between them
+
+        ##########################################################
+
+E:\DEGREES_OF_SEPARATION\src\degreespkg\main>
